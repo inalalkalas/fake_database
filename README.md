@@ -1,4 +1,4 @@
-<h1 style="color: #16AO85;">fake_database</h1>
+<h1 style="color: red;">fake_database</h1>
 
 - backup.sql adalah sekumpulan data fake tersebut dan tabel/entitas tanpa foreign key
 - grocery.sql adalah data tabel/entitas database tersebut.
